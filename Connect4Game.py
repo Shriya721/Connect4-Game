@@ -1,6 +1,4 @@
 ###########################################################
-    #  Computer Project #7
-    #
     #  Algorithm
     #    displays connect 4 logo and description of how to play the game
     #    user is asked to pick a color (either black or white)
